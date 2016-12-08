@@ -11,6 +11,8 @@
 ## JavaScript 编程技巧
 * [JavaScript language advanced Tips & Tricks](https://github.com/xidibuy/guides/blob/master/JavaScript%20language%20advanced%20Tips%20%26%20Tricks.md)
 
+## 工作流程及职责
+* [Workflow & Duty](https://github.com/xidibuy/guides/blob/master/Workflow%20%26%20duty.md)
 
 ## 项目开发流程与部署
 * [Getting Started](https://github.com/xidibuy/guides/blob/master/Getting%20Started.md)
